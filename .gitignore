@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# Downloaded audio/lyrics/metadata (copyrighted, large) - fetched on demand
+songs/youtube/
+
+.env
